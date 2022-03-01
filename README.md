@@ -7,3 +7,9 @@
 <h1 align="center">Plebis Online</h1>
 
 The BEST Game on the market, even though it's still in alpha.
+
+## Current Team:
+  - Eazok (Models and cool guy)
+  - OlumDerGolum (Coding and Blender stuff (also cool guy))
+  - TheCreativDev (Creative Coding and wasting time implementing useless features)
+  - BoettcherDasOriginal (doing nothin tbh hahaha)
