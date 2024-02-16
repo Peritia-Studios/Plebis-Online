@@ -9,7 +9,6 @@
 The BEST Game on the market, even though it's still in alpha.
 
 ## Current Team:
-  - Eazok (Models and cool guy)
-  - OlumDerGolum (Coding and Blender stuff (also cool guy))
-  - TheCreativDev (Creative Coding and wasting time implementing useless features)
-  - BoettcherDasOriginal (Bugfixing and stuff)
+  - OlumDerGolum (Coding, Modeling and Art Design)
+  - TheCreativDev (Coding)
+  - Eazok (Ideas and Planing)
